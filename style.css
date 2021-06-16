@@ -1,9 +1,90 @@
 * {
 	margin: 0;
-	box-sizing: border-box;
+	text-decoration: none;
 }
 body {
-	background-color: #f5e6ca;
+	background-color: #E3BB32;
 	color: #f54748;
 	margin: 0;
+	padding: 0;
+}
+.pe {
+	margin: 0;
+	padding: 0;
+	border: 2px solid #F738E3;
+	width: 8.5vw;
+	height: 100%;
+	font-size: 200%;
+	display: flex;
+	align-items: space-between;
+	justify-content: center;
+}
+.el{
+border: 2px solid #000;
+margin-left: 5px;
+}
+
+.logo{
+    
+	width: 5%;
+    height: 5%;
+    border-radius: 50%;
+}
+.elo{
+display: flex;
+justify-content: start;
+margin-bottom: 10px;
+}
+
+.em{
+display: flex;
+justify-content: start;
+margin-bottom: 10px;
+}
+
+.five{
+    display: flex;
+justify-content: start;
+margin-bottom: 10px;
+}
+
+.six{
+    display: flex;
+justify-content: start;
+margin-bottom: 10px;
+}
+
+.seven{
+    display: flex;
+justify-content: start;
+margin-bottom: 10px;
+}
+
+.nine{
+    display: flex;
+justify-content: start;
+margin-bottom: 10px;
+}
+
+.ten{
+    display: flex;
+justify-content: start;
+margin-bottom: 10px;
+}
+
+.tvelve{
+    display: flex;
+justify-content: start;
+margin-bottom: 10px;
+}
+
+.aleha{
+    display: flex;
+justify-content: start;
+margin-bottom: 10px;
+}
+.max{
+    display: flex;
+justify-content: start;
+margin-bottom: 10px;
 }
